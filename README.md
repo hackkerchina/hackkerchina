@@ -11,7 +11,7 @@
 
 **[Fivem Service](https://discord.gg/dncdev).**
 
-## Kỹ năng  Team 🛠️
+## Kỹ Năng  Team 🛠️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
